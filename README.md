@@ -6,7 +6,7 @@
 
 ☁️ Cloud-Native is my go-to technology topic to talk about. I've spent years working on AWS, GCP, Kubernetes, Docker and IaC tools!
 
-🌱 Currently, I'm learning about CNCF and finding my way towards contribute to one of their many projects!
+🌱 Currently, I'm learning about CNCF and finding my way towards contributing to their many projects!
 
   
    📝 I occasionally write articles on [medium](https://medium.com/@gouthamkanags)!
