@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 
+<h1 align="left">Hey 👋</h1>
 
  🔭 I'm **Goutham**, currently a final year Master's student at Northeastern University specializing in Software Engineering
   
