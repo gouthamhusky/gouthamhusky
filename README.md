@@ -1,17 +1,22 @@
-<h1 align="left">Hey 👋</h1>
+<h1 align="left">Hello! 👋</h1>
 
- 🔭 I'm **Goutham**, currently a final year Master's student at Northeastern University specializing in Software Engineering
+ 🔭 I'm **Goutham**, currently a final year Master's student at Northeastern University, Boston specializing in Software Engineering.
   
-  👨‍💻 I’m into software engineering and cloud computing, and skilled in Microservices, APIs, REST, Integration and backend applications
+  👨‍💻 I’m into software engineering and cloud computing, and skilled in Microservices, APIs, REST, Integration and backend applications.
+
+☁️ Cloud-Native is my go-to technology topic to talk about. I've spent years working on AWS, GCP, Kubernetes, Docker and IaC tools!
+
+🌱 Currently, I'm learning about CNCF and finding my way towards contribute to one of their many projects!
+
   
-   📝 I occasionally write articles on Medium [https://medium.com/@gouthamkanags](https://medium.com/@gouthamkanags)  
+   📝 I occasionally write articles on [medium](https://medium.com/@gouthamkanags)!
   
-  📫 Feel free to reach out to me and I will get back to you as soon as I can! **gauthamkanags@gmail.com**    
+  📫 Feel free to reach out to me and I will get back to you as soon as I can! 
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gouthamhusky" alt="gouthamhusky" /></a> </p>  
   
 
-<h3 align="left">Connect with me:</h3>  
+<h3 align="left">Find me on socials:</h3>  
 <p align="left">  
 <a href="https://linkedin.com/in/goutham-kanahasabai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="goutham-kanahasabai/" height="30" width="40" /></a>  
 <a href="https://www.leetcode.com/gouthamhusky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gouthamhusky" height="30" width="40" /></a>  
