@@ -1,6 +1,6 @@
 <h1 align="left">Hello! 👋</h1>
 
- 🔭 I'm **Goutham**, currently a final year Master's student at Northeastern University, Boston specializing in Software Engineering.
+ 🔭 I'm **Goutham**, 
   
   👨‍💻 I’m into software engineering and cloud computing, and skilled in Microservices, APIs, REST, Integration and backend applications.
 
