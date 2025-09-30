@@ -1,26 +1,63 @@
-<h1 align="left">Hello! 👋</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1 align="center">Hi there, I'm Goutham 👋</h1>
+  <h3 align="center">Kubernetes @ Akamai | Cloud-Native Human
+</div>
 
- 🔭 I'm **Goutham**, 
-  
-  👨‍💻 I’m into software engineering and cloud computing, and skilled in Microservices, APIs, REST, Integration and backend applications.
+---
 
-☁️ Cloud-Native is my go-to technology topic to talk about. I've spent years working on AWS, GCP, Kubernetes, Docker and IaC tools!
+### 👨‍💻 About Me
 
-🌱 Currently, I'm learning about CNCF and finding my way towards contributing to their many projects!
+I'm a Software Engineer II at Akamai's Cloud-Native team, and I work on building opinionated Kubernetes Platforms for Akamai Cloud. Working with open-source technologies, interacting with the CNCF landscape are some of the cool things I do!
 
-  
-   📝 I occasionally write articles on [medium](https://medium.com/@gouthamkanags)!
-  
-  📫 Feel free to reach out to me and I will get back to you as soon as I can! 
-  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gouthamhusky" alt="gouthamhusky" /></a> </p>  
-  
+- 💼 I’m currently a **Software Engineer at Akamai**.
+- ☁️ My expertise includes **Golang, Kubernetes, Helm, Docker, Linux and Cloud-native architecture**.
+- 🌱 I’m currently learning more about the **CNCF landspace** and looking for ways to contribute.
+- ✍️ I occasionally write articles about technology on my [Medium blog](https://medium.com/@gouthamkanags).
+- 📫 You can reach me at **[just.goutham.k@gmail.com]**.
 
-<h3 align="left">Find me on socials:</h3>  
-<p align="left">  
-<a href="https://linkedin.com/in/goutham-kanahasabai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="goutham-kanahasabai/" height="30" width="40" /></a>  
-<a href="https://www.leetcode.com/GouthamKanags" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gouthamhusky" height="30" width="40" /></a>  
-</p>  
-  
-<h3 align="left">Languages and Tools:</h3>  
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+---
+
+### 🛠️ My Tech Stack
+
+Here are some of the languages, tools, and platforms I work with:
+
+<p align="left">
+    <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+    <a href="https://argoproj.github.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="git" width="40" height="40"/></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="git" width="40" height="40"/></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ciliumio/ciliumio-icon.svg" alt="git" width="40" height="40"/></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://www.pulumi.com/logos/brand/avatar-on-white.svg" alt="git" width="40" height="40"/></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="git" width="40" height="40"/></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/OpenTelemetry.svg" alt="git" width="40" height="40"/></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="git" width="40" height="40"/></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.brandfetch.io/idtKvYf7_4/w/180/h/174/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="git" width="40" height="40"/></a>
+
+ 
+</p>
+
+---
+
+### 📊 GitHub Stats & Trophies
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gouthamhusky&show_icons=true&locale=en&theme=tokyonight" alt="gouthamhusky" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gouthamhusky&layout=compact&locale=en&theme=tokyonight" alt="gouthamhusky" />
+</p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gouthamhusky&theme=gruvbox" alt="gouthamhusky" />
+  </a>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/goutham-kanahasabai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="goutham-kanahasabai"/></a>
+<a href="https://www.leetcode.com/GouthamKanags" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="GouthamKanags"/></a>
+</p>
