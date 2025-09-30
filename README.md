@@ -58,6 +58,5 @@ Here are some of the languages, tools, and platforms I work with:
 ### 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/goutham-kanahasabai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="goutham-kanahasabai"/></a>
-<a href="https://www.leetcode.com/GouthamKanags" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="GouthamKanags"/></a>
+<a href="https://www.linkedin.com/in/goutham-kanags/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="goutham-kanahasabai"/></a>
 </p>
