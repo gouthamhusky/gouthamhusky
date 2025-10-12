@@ -41,6 +41,11 @@ Here are some of the languages, tools, and platforms I work with:
 
 ---
 
+### Holopins
+
+[![An image of @gouthamhusky's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gouthamhusky)](https://holopin.io/@gouthamhusky)
+
+
 ### 📊 GitHub Stats & Trophies
 
 <p align="center">
