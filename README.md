@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Software Engineer II at Akamai's Cloud-Native team, and I work on building opinionated Kubernetes Platforms for Akamai Cloud. Working with open-source technologies, interacting with the CNCF landscape are some of the cool things I do!
+I'm a Senior SWE at Akamai's Cloud-Native team, and I work on building opinionated Kubernetes Platforms for Akamai Cloud. Working with open-source technologies, interacting with the CNCF landscape are some of the cool things I do!
 
 - 💼 I’m currently a **Software Engineer at Akamai**.
 - ☁️ My expertise includes **Golang, Kubernetes, Helm, Docker, Linux and Cloud-native architecture**.
